@@ -62,3 +62,24 @@ function color() {
 //Declarar una variable salutation. 
 //Llame a la función greety asigne el resultado de la llamada a la variable salutation.
 //Imprimirla en consola con un string que nos calare que ejercicio es.
+
+
+//Parámetros
+
+function give(input) {
+  return input;
+}
+
+//definimos una función que simplemente devuelve el parámetro input. Los parámetros son variables. 
+
+let result = give('apple');
+
+//llamamos a la función y le pasamos el argumento 'apple'. La función será ejecutada. 
+
+//El argumento 'apple'se asignará al parámetro input. Input obtiene el valor 'apple'. 
+//La variable input se devuelve en la única línea de código de la función. 
+//Este retorno se asigna a la variable result. Finalmente, result tiene el valor 'apple'.
+
+//Ejercicio
+//Escribir una función echo que también devuelva el parámetro pasado. 
+//echo('Greta') debe volver 'Greta'y echo('CO2') debe volver'CO2'

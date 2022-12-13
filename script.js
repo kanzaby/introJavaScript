@@ -56,15 +56,6 @@ console.info(resultado)
 
 
 
-
-
-
-
-
-
-
-
-
 //-----------------------------------------------------------------------------------------------//
 
 //Ejercicios//
@@ -103,3 +94,7 @@ let result = give('apple');
 //Ejercicio
 //Escribir una función echo que también devuelva el parámetro pasado. 
 //echo('Greta') debe volver 'Greta'y echo('CO2') debe volver'CO2'
+
+
+//CONDICIONALES ------- que son???
+//ARRAYS ------que son??? que funciones existen para maniular Arrays?

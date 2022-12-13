@@ -22,10 +22,10 @@ number--;
 
 
 //concatenacion
-console.info("el nombre del facilitador " +  name + " " + "y tengo un " + pet)
+//console.info("el nombre del facilitador " +  name + " " + "y tengo un " + pet)
  
 //interpolacion
-console.info(`mi nombre es ${name} y tengo un ${pet}`)
+//console.info(`mi nombre es ${name} y tengo un ${pet}`)
 
 //-----------------------------------------------------------------------------------------------//
 
@@ -41,9 +41,29 @@ console.info(`mi nombre es ${name} y tengo un ${pet}`)
 //maneras. Quizás la más común es la declaración de función. Comienza con la palabra clave function. Sigue:
 //El nombre de la función,los parámetros encerrados entre paréntesis, las afirmaciones encerradas entre corchetes.
 
-function color() {
-    return 'red';
+
+function medirSuperficieCuadrado(longitudLado) {
+    return longitudLado * longitudLado;
   }
+
+var longitudLado = 6
+
+var resultado = medirSuperficieCuadrado(longitudLado)
+
+console.info(resultado)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 //-----------------------------------------------------------------------------------------------//
 

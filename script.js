@@ -235,9 +235,8 @@ let resul7t = echo (valor2);
 
 console.info(resul7t)
 
-// NI IDEA//
+
 
 //CONDICIONALES ------- que son???
 //ARRAYS ------que son??? que funciones existen para maniular Arrays?
-
 
